@@ -1,6 +1,11 @@
-## Oi, meu nome é Eli (ela/dela ele/dele) 🏳️‍🌈 
-Sou estudante do 5° período de Ciências da computação (IBMR) e <br>
-Front-end developer buscando migrar de carreira.
+## Oi, meu nome é Eli 🏳️‍🌈 
+Sou estudante do 7° período de Ciências da computação (IBMR) e <br>
+Desenvolvimento Full Stack.
+##
+
+## Hi! My name is Eli 🏳️‍🌈 
+I am a 7th semester Computer Science (IBMR) and <br>
+Full Stack Development student.
 ##
 
 <div>
